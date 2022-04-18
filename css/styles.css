@@ -2,6 +2,11 @@
 body {
 font-family: 'Roboto', sans-serif;
 color: black;
+height: 1800px;
+width: 1015px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
 }
 
 .web-text-color {
@@ -20,7 +25,7 @@ color: black;
     display: inline-block;
 }
 .webstudio-text-style {
-    margin-left: 50px;
+    margin-left: 215px;
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -58,6 +63,9 @@ color: black;
 
     color: #2196F3;
 }
+.portpholio {
+  
+}
 .header-adress {
     margin-left: 300px;
     font-family: 'Roboto';
@@ -71,35 +79,52 @@ color: black;
 }
 .header-adress-item {
     display: inline-block;
-    margin-right: 20px;
+    
 }
 .header-email-link {
+    display: inline-block;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-
+    margin: 32px 50px 32px 331px;
     color: #2196F3;
 }
 .header-telephone-link {
+    display: inline-block;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+    margin: 32px 215px 32px 50px;
 
     color: #757575;
 }
+.first-section-style {
+    display: inline-block;
+    height: 600px;
+    width: 1600px;
+    left: 0px;
+    top: 80px;
+    border-radius: 0px;
+    background-color: #2F303A;
+    ;
 
+}
 .header-first-section {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin: 200px 452px 280px 452px;
 
     color: #FFFFFF;
 }
@@ -107,6 +132,12 @@ color: black;
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+    margin: 350px 700px 200px 700px;
+    height: 50px;
+    width: 200px;
+    left: 700px;
+    top: 430px;
+
 }
 .button-text {
     font-family: 'Roboto';
